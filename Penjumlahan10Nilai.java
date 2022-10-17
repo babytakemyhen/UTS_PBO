@@ -1,7 +1,3 @@
-/**
- * 2021071012
- * rizky mahendra
- */
 package penjumlahan10nilai;
 
 import java.util.Arrays;
