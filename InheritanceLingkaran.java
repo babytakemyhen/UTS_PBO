@@ -1,5 +1,3 @@
-package inheritanceLingkaran;
-
 import java.util.Scanner;
 
 // class utama
