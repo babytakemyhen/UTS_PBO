@@ -1,7 +1,3 @@
-/**
- * 2021071012
- * rizky mahendra
- */
 package inheritanceLingkaran;
 
 import java.util.Scanner;
